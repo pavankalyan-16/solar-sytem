@@ -1,0 +1,136 @@
+body{
+    
+    background-image: url(stars-1654074_1280.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+}
+#neptune{
+        width: 2500px;
+        height: 2500px;
+        border: 1px solid #ccc; 
+        border-radius: 50%; 
+        position: relative;
+        padding: 200px;
+}
+
+#np_pic
+{
+    position: absolute;
+    top: 120px; 
+    left:700px;
+
+} 
+#uranus{
+    width: 2300px;
+    height: 2300px;
+    border :1px solid white;
+
+    border-radius: 50%;
+    position: relative;
+    padding: 120px;
+    
+    
+}
+#ur_pic{
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+#saturn{
+    width: 2100px;
+    height: 2100px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    padding: 110px;
+
+}
+#sat_pic{
+ position: absolute;
+ top: -20px;
+}
+#jupiter{
+    width: 1900px;
+    height: 1900px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    padding: 90px;
+}
+#jp_pic{
+    position: absolute;
+    top: -20px;
+    left: 1200px;
+    
+}
+#Mars{
+    width: 1700px;
+    height: 1700px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    padding: 70px;
+}
+#Ma_pic{
+    position: absolute;
+    top: -20px;
+    left: 1000px;
+}
+#earth{
+    width: 1500px;
+    height: 1500px;
+    border: 1px solid white;
+    border-radius:50%;
+    position: relative;
+    padding: 50px;
+}
+#er_pic
+{
+    position: absolute;
+    top: -30px;
+    left: 1000px;
+}
+#venus{
+    width: 1300px;
+    height: 1300px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    padding: 40px;
+}
+#ven_pic{
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+#mercury{
+    width: 1100px;
+    height: 1100px;
+    border: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    padding: 30px;
+    
+
+}
+#mec_pic{
+    position: absolute;
+    top: -30px;
+}
+#sun_pic{
+    position: absolute;
+    top: 300px;
+    right: 300px;
+
+}
+
+
+
+
+
+
+
